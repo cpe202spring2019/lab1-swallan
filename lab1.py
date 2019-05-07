@@ -28,6 +28,7 @@ def reverse_rec(int_list):  # must use recursion
     # """recursively reverses a list of numbers and returns the reversed list
     # If list is None, raises ValueError"""
 
+
 # recursively determines if a target value exists within the specified bounds of a list
 # list - > int (assuming found)
 def bin_search(target, low, high, int_list):  # must use recursion
